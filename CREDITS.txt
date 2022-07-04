@@ -1,0 +1,21 @@
+Refer to the Documentation folder for third-party/upstream credits, of which there are a great many.
+
+laurenmg95 - player_jump.wav
+	CC-BY 3.0
+	https://freesound.org/people/laurenmg95/sounds/386691/
+
+Viscra Maelstrom - nitemare
+	unspecific attribution license
+	MIDI rendered with SGM soundfont
+
+Viscra Maelstrom - mutaland
+	unspecific attribution license
+	MIDI rendered with SGM soundfont
+	
+GTDStudio - Birth of Supernova
+	OGA-BY 3.0
+	https://opengameart.org/content/birth-of-supernova
+	
+HitCtrl - The Plains Of Oblivion
+	CC-BY 3.0
+	https://opengameart.org/content/rpgtheplainsofoblivion

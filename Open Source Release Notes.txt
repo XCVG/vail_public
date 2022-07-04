@@ -1,0 +1,37 @@
+# What is this?
+
+This is the source code (and other assets) for Bang Ouch Infinite (https://xcvg.itch.io/bang-ouch-infinite), my entry to PROCJAM 2020 and 7dfps 2020!
+
+# What do I do with this?
+
+That's up to you! I'm providing this as an example of CommonCore (https://github.com/XCVG/commoncore) although it's pretty old, and just because. Part of the deal is that I'm not providing any sort of support for this, just throwing it out there.
+
+# Missing pieces
+
+Because of licensing or other logistics issues, there are a few files not included in this release:
+
+**DevConsole (Assets/Plugins/DevConsole)**
+
+This is a third-party asset that is not included, except for a config file with settings for this game. You can grab it from the Asset Store (https://assetstore.unity.com/packages/tools/gui/devconsole-2-16833). Note that this version does not work with the latest version of Unity. I have received permission from the author, Antonio Cobo, to update this asset to work with newer versions of Unity. There should be a link to the updated packages in the CommonCore Modules repository (https://github.com/XCVG/commoncore-modules). 
+
+**Music (Assets/Resources/DynamicMusic)**
+
+The music used in the game is not included. All the music used is listed in CREDITS, though without track names. Those can be guessed fairly easily from the meta files. I'm not actually sure where to get the Viscra Maelstrom MIDIs, but they were released in the DOOM community so the Zdoom forums or Doomworld might be a good place to start.
+
+**DreamChess (Assets/StreamingAssets/Chess)**
+
+A binary copy of DreamChess was included as an easter egg. You can grab it from https://www.dreamchess.org/. Version 0.3.0 is almost certainly the correct version.
+
+**XCVG Systems logos (Assets/UI/Graphics/xcvgsys2018_pot_dark.png, Assets/UI/Graphics/xcvgsys2018_pot_light.png)**
+
+The XCVG Systems logos are not included, because these are mine and you can't use them :P
+
+# License and applicability
+
+Bang Ouch Infinite itself is licensed under the MIT License, the full text of which is located in COPYING.txt. This includes all the original art in Assets/Objects/Vail, all art and game data in Assets/Resources except for the sounds in Assets/Resources/DynamicSound, all scene data and code in Assets/Scenes, all game data and code in Assets/Shared, and the graphics in Assets/UI/Graphics. For the sake of completeness, the metadata and settings in Packages and ProjectSettings may also be considered to fall under the MIT License.
+
+The original graphics will likely be released formally under CC-BY or another license at some point. If you need them under another license badly, please contact me!
+
+CommonCore core code, found under CommonCore, CommonCoreGame, and CommonCoreModules, is dual-licensed under the MIT license and CC-BY. For all practical intents and purposes it can be considered to fall under the same licensing as the rest of the game. Note that there are a few resources and code files in these folders that are third-party and fall under other licenses. See the Documentation folder, which mostly comes from upstream, for details.
+
+Third-party textures, sounds, and libraries fall under their respective licenses. You can find info about this in CREDITS.txt or in the Documentation folder depending on if the asset in question is exclusive to Bang Ouch Infinite or comes from upstream.

@@ -1,0 +1,11 @@
+{
+  "IGUI": {
+    "Welcome": "Wilkommen",
+	"WindowTitle": "Bang Ouch Infinite"
+  },
+  "IGUI_STATS": {
+    "SecurityMechanisms": "Lockpicking",
+    "SecurityComputers": "Hacking"
+  },
+  "TEST": {}
+}
